@@ -1,0 +1,63 @@
+[2024-11-23 17:36:00] Connected to COM4.
+[2024-11-23 17:36:03] Serial connection closed.
+[2024-11-23 17:36:10] 
+Downloading index: library_index.tar.bz2 0 B / 3.11 MiB    0.00%
+Downloading index: library_index.tar.bz2 downloaded
+
+Downloading index: package_index.tar.bz2 0 B / 74.25 KiB    0.00%
+Downloading index: package_index.tar.bz2 downloaded
+Downloading missing tool builtin:serial-discovery@1.4.1...
+
+builtin:serial-discovery@1.4.1 0 B / 1.84 MiB    0.00%
+builtin:serial-discovery@1.4.1 downloaded
+Installing builtin:serial-discovery@1.4.1...
+Skipping tool configuration....
+builtin:serial-discovery@1.4.1 installed
+Downloading missing tool builtin:serial-monitor@0.14.1...
+
+builtin:serial-monitor@0.14.1 0 B / 2.16 MiB    0.00%
+builtin:serial-monitor@0.14.1 downloaded
+Installing builtin:serial-monitor@0.14.1...
+Skipping tool configuration....
+builtin:serial-monitor@0.14.1 installed
+Downloading missing tool builtin:ctags@5.8-arduino11...
+
+builtin:ctags@5.8-arduino11 0 B / 113.73 KiB    0.00%
+builtin:ctags@5.8-arduino11 downloaded
+Installing builtin:ctags@5.8-arduino11...
+Skipping tool configuration....
+builtin:ctags@5.8-arduino11 installed
+Downloading missing tool builtin:dfu-discovery@0.1.2...
+
+builtin:dfu-discovery@0.1.2 0 B / 2.18 MiB    0.00%
+builtin:dfu-discovery@0.1.2 downloaded
+Installing builtin:dfu-discovery@0.1.2...
+Skipping tool configuration....
+builtin:dfu-discovery@0.1.2 installed
+Downloading missing tool builtin:mdns-discovery@1.0.9...
+
+builtin:mdns-discovery@1.0.9 0 B / 2.51 MiB    0.00%
+builtin:mdns-discovery@1.0.9 downloaded
+Installing builtin:mdns-discovery@1.0.9...
+Skipping tool configuration....
+builtin:mdns-discovery@1.0.9 installed
+Downloading Keyboard@1.0.6...
+
+Keyboard@1.0.6 0 B / 26.10 KiB    0.00%
+Keyboard@1.0.6 downloaded
+Installing Keyboard@1.0.6...
+Installed Keyboard@1.0.6
+
+[2024-11-23 17:36:11] Downloading Mouse@1.0.1...
+
+Mouse@1.0.1 0 B / 4.19 KiB    0.00%
+Mouse@1.0.1 downloaded
+Installing Mouse@1.0.1...
+Installed Mouse@1.0.1
+
+[2024-11-23 17:36:12] Error during compilation: Error during build: Platform 'arduino:avr' not found: platform not installed
+Try running `arduino-cli core install arduino:avr`
+
+[2024-11-23 17:36:12] Compilation failed. Please check the sketch.
+[2024-11-23 17:36:16] Connected to COM4.
+

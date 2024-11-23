@@ -1,0 +1,4 @@
+opencv-python
+tk
+pyserial
+sqlite
